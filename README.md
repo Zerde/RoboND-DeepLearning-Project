@@ -6,6 +6,9 @@ In this project, you will train a deep neural network to identify and track a ta
 
 [image_0]: ./docs/misc/sim_screenshot.png
 ![alt text][image_0] 
+## Results
+For the results and explanation of the solution please refer to the [project writeup](writeup.md).
+For network model and jupyter notebook solution see [model_training.html](code/model_training.html)
 
 ## Setup Instructions
 **Clone the repository**
